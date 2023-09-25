@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @atifahmd1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning WebD
-- 💞️ I’m looking to collaborate on College Project.
-- 📫 You can contact me on rising.atif@gmail.com
+- 👋 Hi, I’m Atif Ahmad. You can find me on @atifahmd1.
+- 👀 I’m interested in Entry Level SDE roles.
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking to collaborate on various Projects.
+- 📫 You can contact me on atifahmad900@gmail.com.
 
 <!---
 atifahmd1/atifahmd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
