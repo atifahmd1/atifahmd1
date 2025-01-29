@@ -2,7 +2,7 @@
 - 👀 I’m interested in Entry Level SDE roles.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on various Projects.
-- 📫 You can contact me on atifahmad900@gmail.com.
+- 📫 You can contact me on mail.atifahmd1@gmail.com.
 
 <!---
 atifahmd1/atifahmd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
